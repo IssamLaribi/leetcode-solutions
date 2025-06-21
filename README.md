@@ -8,14 +8,10 @@ Each solution is organized by problem number and difficulty level (Easy, Medium,
 leetcode/
 │
 ├── easy/
-│ 
 │
 ├── medium/
-│ 
 │
 └── hard/
-└── 
-
 
 ## 📌 Notes
 
