@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my personal solutions to LeetCode problems, written in C++.  
+This repository contains my personal solutions to LeetCode problems, written in C++ and C#.  
 Each solution is organized by problem number and difficulty level (Easy, Medium, Hard).
 
 ## 📁 Folder Structure
