@@ -5,6 +5,9 @@ Each solution is organized by problem number and difficulty level (Easy, Medium,
 
 ## 📁 Folder Structure
 
+```
+project-root/
+│
 leetcode/
 │
 ├── easy/
@@ -12,6 +15,7 @@ leetcode/
 ├── medium/
 │
 └── hard/
+```
 
 ## 📌 Notes
 
