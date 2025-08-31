@@ -11,7 +11,7 @@ private:
         if (!t1 && !t2) return true; // If both are null, it is symmetric
         if (!t1 || !t2) return false; // If only one is null, it is not symmetric
         
-        return (t1->val == t2->val) // vlues are the same
+        return (t1->val == t2->val) // Values must match
             && isMirror(t1->left, t2->right) // t1 left and t2 right comparison
             && isMirror(t1->right, t2->left); // t1 right and t2 left comparison
     }
