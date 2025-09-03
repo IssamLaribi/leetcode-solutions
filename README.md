@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my personal solutions to LeetCode problems, written in Python, JavaScript, C++ and C#.  
+This repository contains my personal solutions to LeetCode problems, written in Python, JavaScript, Bash Script, C++ and C#.  
 Each solution is organized by problem number and difficulty level (Easy, Medium, Hard).
 
 ## 📁 Folder Structure
